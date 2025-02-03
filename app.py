@@ -12,7 +12,6 @@ st.sidebar.markdown(""" """, unsafe_allow_html=True)
 details = [
     "**Name:** Appalaneni Uday Kiran", 
     "**Job Role:** Responsible AI Engineer",
-    "**Company:** Accenture",
     "[🔗 LinkedIn](https://www.linkedin.com/in/uday-kiran-chowdary-4aa25b1b5/)"
 ]
 
